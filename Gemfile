@@ -10,7 +10,6 @@ gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
-source 'https://rubygems.org'
 gem 'unicorn'
 # gem 'unicorn-rails'
 
